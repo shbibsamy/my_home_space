@@ -149,7 +149,8 @@ a {
 }
 
 .article-navigation {
-    width: 100%;
+    width: fit-content;
+    align-self: flex-end;
     margin-top: 5%;
     display: flex;
     justify-content: flex-end;
